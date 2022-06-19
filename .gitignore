@@ -29,4 +29,7 @@ __pycache__/
 *.zip
 
 env
-
+dataset
+git
+checkpoints
+vis_pred
